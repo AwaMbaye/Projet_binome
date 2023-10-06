@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Projet_binome\projet\bin\Debug\net6.0\projet.exe
+C:\Users\Administrateur\Projet_binome\projet\bin\Debug\net6.0\projet.deps.json
+C:\Users\Administrateur\Projet_binome\projet\bin\Debug\net6.0\projet.runtimeconfig.json
+C:\Users\Administrateur\Projet_binome\projet\bin\Debug\net6.0\projet.dll
+C:\Users\Administrateur\Projet_binome\projet\bin\Debug\net6.0\projet.pdb
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.AssemblyInfo.cs
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.dll
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\refint\projet.dll
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.pdb
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\projet.genruntimeconfig.cache
+C:\Users\Administrateur\Projet_binome\projet\obj\Debug\net6.0\ref\projet.dll
